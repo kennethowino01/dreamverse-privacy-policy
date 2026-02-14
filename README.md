@@ -2,6 +2,8 @@ Dreamverse Privacy Policy
 
 Effective Date: January 24, 2026
 
+Dreamverse ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Dreamverse mobile application ("App"). By using the App, you agree to the practices described in this Privacy Policy.
+
 1. Information We Collect
 
 Account Information: Email address and profile image (if uploaded).
