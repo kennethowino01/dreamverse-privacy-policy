@@ -11,7 +11,11 @@ Account Information: Email address and profile image (if uploaded).
 Financial Information: Purchase history and subscription status (processed via Google Play Billing and RevenueCat). We do not store credit card details.
 
 Media & Files: If you use the dream interpretation or profile features, we may request access to your Photos and Media (READ_MEDIA_IMAGES) to allow you to upload images.
+
 App Performance Data: We may collect technical logs, such as app load times and crash reports, to ensure the AI agents are responding correctly and to improve app stability.
+
+App Interactions: Dreamverse collects app interaction data (such as feature usage and AI agent engagement) to perform internal analytics and improve the quality of our dream interpretations. This data is used solely by the developer to study user behavior and enhance app functionality; it is not shared with third parties for marketing purposes.
+
 2. Use of Information
 
 The information we collect is used for the following purposes:
