@@ -1,3 +1,5 @@
+Dreamverse Privacy Policy
+
 Effective Date: January 24, 2026
 
 1. Information We Collect
